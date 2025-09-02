@@ -1,20 +1,13 @@
-# UC04 Versionamento
-
-### **📚 Índice**
-
-  1. [O que é Versionamento](https://www.google.com/search?q=%23-o-que-%C3%A9-versionamento)
-  2. [O que é Git](https://www.google.com/search?q=%23-o-que-%C3%A9-git)
-  3. [A Importância do GitHub](https://www.google.com/search?q=%23-a-import%C3%A2ncia-do-github)
-  4. [Uso de Branches](https://www.google.com/search?q=%23-uso-de-branches)
-      - [Isolamento de Mudanças](https://www.google.com/search?q=%23-isolamento-de-mudan%C3%A7as)
-      - [Trabalho em Equipe](https://www.google.com/search?q=%23-trabalho-em-equipe)
-      - [Manutenção do Histórico](https://www.google.com/search?q=%23-manuten%C3%A7%C3%A3o-do-hist%C3%B3rico)
-      - [Proteção do Código](https://www.google.com/search?q=%23-prote%C3%A7%C3%A3o-do-c%C3%B3digo)
-  5. [Principais Comandos do Git](https://www.google.com/search?q=%23-principais-comandos-do-git)
-  6. [Fluxo de Trabalho Básico](https://www.google.com/search?q=%23-fluxo-de-trabalho-b%C3%A1sico)
-  7. [Dicas Importantes](https://www.google.com/search?q=%23-dicas-importantes)
-  8. [Conclusão](https://www.google.com/search?q=%23-conclus%C3%A3o)
-  9. [Atividade: Versionamento com Git e GitHub](https://www.google.com/search?q=%23-atividade-versionamento-com-git-e-github)
+#-o-que-%C3%A9-versionamento
+  1. [O que é Versionamento](#-o-que-%C3%A9-versionamento)
+  2. [O que é Git](#-o-que-%C3%A9-git)
+  3. [A Importância do GitHub](#-a-import%C3%A2ncia-do-github)
+  4. [Uso de Branches](#-uso-de-branches)
+  5. [Principais Comandos do Git](#-principais-comandos-do-git)
+  6. [Fluxo de Trabalho Básico](#-fluxo-de-trabalho-b%C3%A1sico)
+  7. [Dicas Importantes](#-dicas-importantes)
+  8. [Conclusão](#-conclus%C3%A3o)
+  9. [Atividade: Versionamento com Git e GitHub](#-atividade-versionamento-com-git-e-github)
 
 -----
 
